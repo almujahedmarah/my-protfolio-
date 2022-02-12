@@ -5,10 +5,11 @@
 }
 .home{
     display: flex;
-    gap: 200px;
+    gap: 100px;
     margin-top: 80px;
     margin-left: 200px;
 }   
+
 
 .img{
     border-top-left-radius: 200px;
@@ -32,7 +33,6 @@ ul{
 }
 li{
     padding-top: 2%;
-    /* text-decoration: none; */
 }
 .navimg{
     width: 60px;
@@ -40,4 +40,16 @@ li{
     border-top-right-radius: 400px;
     border-bottom-left-radius: 400px;
     border-bottom-right-radius: 200px;
+}
+.homebrwn{
+    color: brown;
+    padding-top: 5%;
+}
+.p{
+    padding-top: 5%;
+}
+.wep{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 20px;
 }
