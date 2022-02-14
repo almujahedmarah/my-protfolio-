@@ -3,7 +3,7 @@ import Home from "./comp/Home";
 import Navbar from "./comp/Navbar";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import About from "./comp/About";
-import Vid from "./comp/img/Vid";
+import Vid from "./comp/Vid";
 
 function App() {
   return (

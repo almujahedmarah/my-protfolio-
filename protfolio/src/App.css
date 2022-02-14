@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+html{
+    scroll-behavior: smooth;
+}
 .home{
     display: flex;
     gap: 100px;
@@ -52,4 +55,76 @@ li{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 20px;
+}
+.contact{
+    padding-top: 10%;
+}
+
+.video{
+    width: 800px;
+}
+.About{
+    padding-left: 20%;
+    padding-top: 100px;
+}
+.title{
+    /* text-align: ; */
+    padding-bottom: 1% ;
+    color: rgb(44, 5, 5);
+}
+.title2{
+    padding-bottom: 4% ;
+    color: rgb(56, 1, 1); 
+}
+.titlep{
+    width: 300px;
+    color: rgba(31, 31, 31, 0.74);
+}
+.taxtcv{
+    margin-bottom: 5%;
+    display: flex;
+    gap: 300px;
+}
+.EE{
+    width: 300px;
+    /* gap: 10px; */
+}
+.titlcv{
+    padding-bottom: 5%;
+    color: rgb(138, 79, 1);
+}
+.p{
+    padding-bottom: 5%;
+}
+.bgining{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+.hello{
+    padding-top: 100px;
+}
+.vide{
+    display: flex;
+    text-align: start;
+    gap: 100px;
+}
+.videohh{
+    margin: 5%;
+    text-align: center;
+}
+.titlepro{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: rgba(165, 42, 42, 0.767);
+
+    font-size:x-large;
+}
+.vidp{
+    padding-top: 5%;
+    font-size: larger;
+    display: grid;
+}
+.r{
+    color: rgba(110, 67, 78, 0.884);
 }
