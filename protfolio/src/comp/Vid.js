@@ -13,7 +13,6 @@ export default function Vid() {
         <a className="link1" href="https://dior-store.herokuapp.com/" >Click me to see the Project</a>
         </div>
    <iframe width="1000px" height="400px"  src="https://rr2---sn-hgn7yn7s.c.drive.google.com/videoplayback?expire=1644867973&ei=RXkKYtDDCObz1bYP4oi5gA4&ip=2001:16a2:cb90:9f00:b536:c631:6133:d3e6&cp=QVRJVklfVllVRFhPOmRzMEoxRkI2MzNDalZRcm11RmxNdXM1aHlhaWtNTEFCelhzWGhpb2wzcEE&id=bfab4aa065d008c9&itag=18&source=webdrive&requiressl=yes&mh=y2&mm=32&mn=sn-hgn7yn7s&ms=su&mv=m&mvi=2&pl=40&ttl=transient&susc=dr&driveid=10lE2XIbet96ah60yGiznBe_auTuUzHMO&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=151.765&lmt=1644742953651555&mt=1644853225&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAMG1XlW7bnIMWD06Es92fK3yPMZnI9Qlg-ZghU6iLJIQAiAInweBxBpFPefo6RiMRMgNAicfnBqMc5oI8fu2KsBq7A==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgbn4x5ey1bheOi2d6XQDCNABVTp1TrCSMJv7EK-lF_4ECIQCXQWqMytPez1KBKY2akC43M7h-3VFiiYsHMkLTDCM0Vw==&cpn=BfUjhJrHHl84QMpg&c=WEB_EMBEDDED_PLAYER&cver=1.20220208.01.00"></iframe>
-        {/* <img width="1000px" height="400px" src="https://i.ibb.co/fr32Zym/diorss.png"/> */}
       </div>
       <h2  className="titlepro">Flower shop </h2>
       <div className="vide">
@@ -33,6 +32,7 @@ export default function Vid() {
         <p className="r"> backend</p>
         <p className="rrr">Express, Nodejs , Mongodb (Atlas),JWT,postman</p>
         </div>
+        
         <video className="video" controls>
           <source src="https://i.imgur.com/nmGm0vv.mp4" type="video/mp4" />
         </video>
