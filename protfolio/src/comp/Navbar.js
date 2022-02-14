@@ -23,7 +23,7 @@ export default function Navbar() {
         <li>
           {/* <Link className="link" to="Vid">
             My Project */}
-           {/* <a className="link" href="#r"> My Project</a> */}
+           <a className="link" href="#r"> My Project</a>
 
           {/* </Link> */}
         </li>
