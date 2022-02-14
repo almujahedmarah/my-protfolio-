@@ -34,6 +34,11 @@ ul{
     color: black;
     text-decoration: none;
 }
+.link1{
+    color: rgb(134, 0, 0);
+    text-decoration: none;
+    font-size: smaller;
+}
 li{
     padding-top: 2%;
 }
@@ -110,7 +115,7 @@ li{
     gap: 100px;
 }
 .videohh{
-    margin: 5%;
+    margin: 10%;
     text-align: center;
 }
 .titlepro{
@@ -127,4 +132,7 @@ li{
 }
 .r{
     color: rgba(110, 67, 78, 0.884);
+}
+.rrr{
+    font-size: smaller;
 }

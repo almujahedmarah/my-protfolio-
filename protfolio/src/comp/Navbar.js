@@ -21,9 +21,11 @@ export default function Navbar() {
           {/* </Link> */}
         </li>
         <li>
-          <Link className="link" to="Vid">
-            My Project
-          </Link>
+          {/* <Link className="link" to="Vid">
+            My Project */}
+           <a className="link" href="#r"> My Project</a>
+
+          {/* </Link> */}
         </li>
         <li>
         <a href="https://www.linkedin.com/in/marah-al-mujahed-79409a200/" className="link"> <LinkedInIcon /> </a>
